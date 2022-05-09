@@ -1,0 +1,23 @@
+{
+  "name": "pagination-node.js-mongoose",
+  "version": "1.0.0",
+  "description": "pagination in Node.js using skip and limit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpojhi/pagination-node.js-mongoose.git"
+  },
+  "author": "saurabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhpojhi/pagination-node.js-mongoose/issues"
+  },
+  "homepage": "https://github.com/saurabhpojhi/pagination-node.js-mongoose#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
